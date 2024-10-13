@@ -840,5 +840,17 @@
     "Image": "https://thumb.modcdn.io/mods/cdf4/4392101/thumb_1020x2000/screenshot2024-10-11192750.1.png",
     "Url": "https://mod.io/g/gorilla-tag/m/sky-island?preview=0c0ec2269d2fae21d8fa7fb24dd639ae",
     "Good":true
+  },
+  {
+    "Name": "city",
+    "Image": "https://thumb.modcdn.io/mods/8697/4407415/thumb_1020x2000/16efirim.1.png",
+    "Url": "https://mod.io/g/gorilla-tag/m/city5?preview=ff45e500365185e903a8b82b9ceea06a",
+    "Good":false
+  },
+  {
+    "Name": "minecraft flat world",
+    "Image": "https://thumb.modcdn.io/mods/4c98/4407674/thumb_1020x2000/minecraft-flat-world_1080p_101.1.png",
+    "Url": "https://mod.io/g/gorilla-tag/m/minecraft-flat-world?preview=f6438dfb1f3528a6cdceb64e280eb611",
+    "Good":false
   }
 ]
