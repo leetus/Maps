@@ -539,11 +539,6 @@
     "Url": "https://mod.io/g/gorilla-tag/m/grab-yoohoos-diffuculty-chart-v5-halloween?preview=581b255bdd1e1e44c700ad485b376b10"
   },
   {
-    "Name": "Lounge",
-    "Image": "https://thumb.modcdn.io/mods/3e2c/4397429/thumb_1020x2000/screenshot2024-10-08160602.1.png",
-    "Url": "https://mod.io/g/gorilla-tag/m/lounge1?preview=8fcab755d64ab2c272547862de0b8f72"
-  },
-  {
     "Name": "2Fort",
     "Image": "https://thumb.modcdn.io/mods/1a40/4397914/thumb_1020x2000/600px-ctf_2fort_bridge_ss.png",
     "Url": "https://mod.io/g/gorilla-tag/m/2fort?preview=6a6661c33359544f567c5635f49a0a06"
@@ -866,12 +861,6 @@
     "Good":false
   },
   {
-    "Name": "Parkour Spiral",
-    "Image": "https://thumb.modcdn.io/mods/38d3/4409371/thumb_1020x2000/parkourspiral.1.jpg",
-    "Url": "https://mod.io/g/gorilla-tag/m/parkour-spiral17?preview=d2da20729ce1759589e82cb3cc24147e",
-    "Good":false
-  },
-  {
     "Name": "GLIDER RACE 2",
     "Image": "https://thumb.modcdn.io/mods/8b38/4405146/thumb_1020x2000/2024-10-12162315.1.png",
     "Url": "https://mod.io/g/gorilla-tag/m/glider-race-2?preview=65f81390e91e93c21da5d7b881a36a6f",
@@ -935,12 +924,6 @@
     "Name": "Gorilla Warrior",
     "Image": "https://thumb.modcdn.io/mods/77b0/4411151/thumb_1020x2000/gw1.2.png",
     "Url": "https://mod.io/g/gorilla-tag/m/gorilla-warrior?preview=bab269e37d8a049ccbb57212e12045aa",
-    "Good":false
-  },
-  {
-    "Name": "harder example map",
-    "Image": "https://thumb.modcdn.io/mods/c330/4395396/thumb_1020x2000/image_2024-10-07_184556955.png",
-    "Url": "https://mod.io/g/gorilla-tag/m/harder-example-map?preview=bd561d52d0565fd38a3ad503ab756ea9",
     "Good":false
   },
   {
